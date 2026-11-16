@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="GitCalculatorTestProject/GitCalculatorTestProject.csproj" />
   <Project Path="GitConsoleApp/GitConsoleApp.csproj" />
 </Solution>
